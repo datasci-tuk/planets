@@ -1,7 +1,0 @@
-#If t1 - t6(FEB through JULY) > 0.6 for more than 4 time steps than class code = crop
-
-#If t7 - t12(AUG through DEC) > 0.6 for more than 4 time steps than class code = crop
-
-#If t1 - t12(FEB through DEC) < 0.6 for all time steps than class code = fallow
-
-#adding a 4th line
